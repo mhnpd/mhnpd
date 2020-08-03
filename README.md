@@ -1,1 +1,1 @@
-<img src="/uploads/cover.gif" style="width:100%;">
+<img src="/mhnpd/mhnpd/uploads/cover.gif" style="width:100%;">
