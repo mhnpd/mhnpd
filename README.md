@@ -6,6 +6,6 @@ I'm a software developer who enjoys creating products to improve productivity an
 
 ## Find me on:
 
-- [Twitter 🐦]("https://twitter.com/mhnpd")
-- [Linked In 👨‍💻]("https://linkedin.com/in/mhnpd")
+- #### [Twitter 🐦](https://twitter.com/mhnpd)
+- #### [Linked In 👨‍💻](https://linkedin.com/in/mhnpd)
 
