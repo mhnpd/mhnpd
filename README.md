@@ -4,7 +4,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-HTML-yellowgreen)
 ![Typescript](https://img.shields.io/badge/Typescript-Typescript-blue)
-1[ReactJS](https://img.shields.io/badge/ReactJS-React-blue)
+![ReactJS](https://img.shields.io/badge/ReactJS-React-blue)
 
 ## Find me on:
 
