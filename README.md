@@ -2,9 +2,6 @@
 
 <img src="./uploads/github_mohan.png" alt="mohan intro banner">
 
-![HTML](https://img.shields.io/badge/HTML-HTML-yellowgreen)
-![Typescript](https://img.shields.io/badge/Typescript-Typescript-blue)
-![ReactJS](https://img.shields.io/badge/ReactJS-React-blue)
 
 ## Find me on:
 
