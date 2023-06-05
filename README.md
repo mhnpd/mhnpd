@@ -37,4 +37,3 @@
 
 ## Stats
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnpd&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhnpd&repo=react-loader-spinner)](https://github.com/mhnpd/react-loader-spinner)
