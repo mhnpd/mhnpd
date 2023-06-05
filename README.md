@@ -2,6 +2,8 @@
 
 <img src="./uploads/github_mohan.png" alt="mohan intro banner">
 
+https://img.shields.io/badge/HTML-HTML-yellowgreen
+
 ## Find me on:
 
 - #### [Twitter 🐦](https://twitter.com/mhnpd)
