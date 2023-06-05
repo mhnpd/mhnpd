@@ -2,7 +2,7 @@
 
 <img src="./uploads/github_mohan.png" alt="mohan intro banner">
 
-![HTML][https://img.shields.io/badge/HTML-HTML-yellowgreen]
+![HTML](https://img.shields.io/badge/HTML-HTML-yellowgreen)
 
 ## Find me on:
 
